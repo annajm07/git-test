@@ -8,5 +8,11 @@
 <body>
 	<p>ini paragrap</p>
 	<p>tambah ciek lai paragrap</p>
+	<ul>
+		<li>
+			list 1
+		</li>
+		<li>list 2</li>
+	</ul>
 </body>
 </html>
